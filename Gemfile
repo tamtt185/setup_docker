@@ -18,6 +18,7 @@ gem "activerecord-import"
 gem "mini_racer"
 gem "social-share-button", "~> 1.2"
 gem "turbolinks"
+gem "sidekiq"
 
 group :development, :test do
   gem "pry-rails"
